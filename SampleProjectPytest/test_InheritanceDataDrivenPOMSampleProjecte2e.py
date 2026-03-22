@@ -45,3 +45,4 @@ def test_e2e(browserInstance, test_list_item):     # fixture's param whose value
 
     #Comment added in the cloned folder
     #Comment added in GitPractice User B folder -- while Pull command
+    #Comment added after creating Sub branch 'development' Architect A
