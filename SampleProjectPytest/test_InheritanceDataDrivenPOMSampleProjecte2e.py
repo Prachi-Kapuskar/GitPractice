@@ -44,3 +44,4 @@ def test_e2e(browserInstance, test_list_item):     # fixture's param whose value
     cartPage.validate_order()                # fetch the text from the success message
 
     #Comment added in the cloned folder
+    #Comment added in GitPractice User B folder -- while Pull command
