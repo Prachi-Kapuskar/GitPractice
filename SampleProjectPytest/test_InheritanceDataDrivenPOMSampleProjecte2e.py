@@ -42,3 +42,5 @@ def test_e2e(browserInstance, test_list_item):     # fixture's param whose value
     cartPage.checkout()                      # Click on 'Checkout' button on cart page
     cartPage.enter_delivery_address("ind")   # Enter country name in auto-suggest dropdown
     cartPage.validate_order()                # fetch the text from the success message
+
+    #Comment added in the cloned folder
